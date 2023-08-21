@@ -10,10 +10,10 @@
 ### I am Lust Tobias
 - A Developer & self-taught programmer enthusiast.
 - A Data Science student in
-  Universidad Nacional de San Martin (UNSAM) Argentina. 
+  <br />Universidad Nacional de San Martin (UNSAM) Argentina. 
 - Currently studying CS50 and CS50P from Harvard University.
 - Working on some of my cool side projects based on
-  Web Development and Python terminal projects.
+  <br />Web Development and Python terminal projects.
 - I'm currently looking for opportunities.
-  I love to learn and contribute in any and every possible way.
+  <br />I love to learn and contribute in any and every possible way.
 
