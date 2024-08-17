@@ -11,7 +11,6 @@
 - A Developer & self-taught programmer enthusiast.
 - A Data Science student in
   <br />Universidad Nacional de San Martin (UNSAM) Argentina. 
-- Currently studying CS50 and CS50P from Harvard University.
 - Working on some of my cool side projects based on
   <br />Web Development and Python terminal projects.
 - I'm currently looking for opportunities.
